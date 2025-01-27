@@ -13,9 +13,11 @@ A simple weather app that provides real-time weather data for cities around the 
 - Axios - To make API requests.
 ## Usage
 Enter the name of a city in the search bar.
+
 The weather information for that city will be displayed, including:
 - Current temperature
 - Weather description (e.g., Sunny, Rainy)
 - Wind speed
 - Humidity percentage
+
 You can toggle between Celsius and Fahrenheit for temperature display.
